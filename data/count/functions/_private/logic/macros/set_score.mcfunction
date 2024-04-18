@@ -1,0 +1,1 @@
+$data modify storage ia:temp score set string entity @s Inventory[$(index)].id 10
