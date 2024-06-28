@@ -1,0 +1,1 @@
+function capi:_private/uninstall
